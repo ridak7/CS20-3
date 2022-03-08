@@ -11,7 +11,7 @@ Course: Computer Programming 20
 */
 
 
-public class Rectangle {
+public class Rectangle {					Let the user enter the length and width
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
