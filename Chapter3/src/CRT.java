@@ -13,10 +13,10 @@ a) 13
 	b) 11
 
 a) int
- 	b) double
-	c) int
-	d) double
-	e) string
+ 	b) double				int
+	c) int					double
+	d) double			
+	e) string				boolea
 	f) char
 
 a) Primitive is supported directly by the language, while abstract is created by users.
