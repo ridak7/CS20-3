@@ -13,7 +13,7 @@ Course: Computer Programming 20
 
 public class Rectangle {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {						Make it dynamic with user interaction
 		// TODO Auto-generated method stub
 		
 		int width = 4;
